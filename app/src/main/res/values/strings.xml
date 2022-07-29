@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">OwnChatApp</string>
 
-    <string name="api_key">ugfcc9jcvda8</string>
-    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoic3JpeWFua3NpZCJ9.fJw7VRHthvOs4ZbyHkTc5CApdP981eO0Hi7bLhWupVg</string>
+    <string name="api_key">ugfcccvda90</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1pXVCJ9.eyJ1c2VyX2eWFua3NpZCJ9.fJw7VRHthvOc5CApdP981eO0Hi7bLhWupVg</string>
 <!-- sriyanksid -->
 </resources>
